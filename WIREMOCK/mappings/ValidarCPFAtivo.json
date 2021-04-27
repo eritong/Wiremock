@@ -1,0 +1,25 @@
+{
+
+    "request": {
+        "method": "GET",
+        "url": "/00000000000/json"
+    },
+
+    "response": {
+      "fixedDelayMilliseconds": 15000,
+
+        "status": 200,
+        "jsonBody": {"cpf": "000.000.000-00",
+
+            "situacao": "Ativo",
+
+            "uf": "SP"
+
+            },
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    }
+    
+   

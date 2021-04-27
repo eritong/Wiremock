@@ -1,0 +1,28 @@
+{
+
+
+
+
+    
+    "request": {
+        "method": "GET",
+        "url": "/00000000001/json"
+    },
+
+
+
+
+
+    "response": {
+        "status": 200,
+        "jsonBody": {"cpf": "000.000.000.01",
+            "situacao": "Inativo",
+            "uf": "SP"
+            },
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    }
+    
+   
